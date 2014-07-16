@@ -54,7 +54,7 @@ public class SpongeBox extends JavaPlugin {
                         PotionEffect eppe = new PotionEffect(PotionEffectType.POISON, Integer.MAX_VALUE, 1);
                         player.addPotionEffect(eppe);
                         player.setPlayerTime(12000, true);
-                        sender.sendMessage(ChatColor.DARK_RED + "Sadness should commence shortly!");
+                        sender.sendMessage(ChatColor.DARK_RED + "Their sadness should commence shortly!");
                     }
                 }
                 sender.sendMessage(ChatColor.DARK_RED + "Player not found!");

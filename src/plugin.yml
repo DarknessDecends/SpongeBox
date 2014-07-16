@@ -1,16 +1,16 @@
 name: SpongeBox
 main: me.darknessdecends.spongebox.SpongeBox
-version: 1.1
+version: 1.2
 website: http://www.polygoncraft.net
-description: TeLEpORts A pLAyeR tO a SpONgE BoX also fuck flexo
-author: Torrey
+description: Teleports a player to a SpongeBox at a specified location
+author: DarknessDecends
 commands: 
     sponge:
-        description: TeLEpORts A pLAyeR tO THe SpONgE BoX also flexo is a whore
+        description: Teleports A player to the SpongeBox
         usage: §cThe correct format is /sponge [player_name]
         permission: spongebox.sponge
     spongeboxreload:
-        description: reloads SpongeBox
+        description: Reloads SpongeBox
         usage: §cThe correct format is /spongeboxreload
         permission: spongebox.reload
 
