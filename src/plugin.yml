@@ -1,0 +1,16 @@
+name: SpongeBox
+main: me.darknessdecends.spongebox.SpongeBox
+version: 1.1
+website: http://www.polygoncraft.net
+description: TeLEpORts A pLAyeR tO a SpONgE BoX also fuck flexo
+author: Torrey
+commands: 
+    sponge:
+        description: TeLEpORts A pLAyeR tO THe SpONgE BoX also flexo is a whore
+        usage: §cThe correct format is /sponge [player_name]
+        permission: spongebox.sponge
+    spongeboxreload:
+        description: reloads SpongeBox
+        usage: §cThe correct format is /spongeboxreload
+        permission: spongebox.reload
+
